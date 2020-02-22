@@ -1,3 +1,3 @@
-#demo file
+# demo file
 
 This is a test.
